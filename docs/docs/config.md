@@ -13,7 +13,7 @@ export default {
 }
 ```
 
-## Configuration
+## Configuration1111
 
 If your configurations are not complicated, we recommend configuring your app with `.umirc.ts`;
 If your configurations are complicated, it is possible to split your configurations into pieces and organize them in `config/config.ts`. For example, if you need to configure routers, it would be a good choice to have it in an individual module called `routes.ts`.
